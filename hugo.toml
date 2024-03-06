@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'test.it-was.me'
 languageCode = 'en-usj'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
